@@ -1,0 +1,15 @@
+n1, n2 = input().split()
+
+add = int(n1) + int(n2)
+sub = int(n1) - int(n2)
+mul = int(n1) * int(n2)
+quot = int(n1) // int(n2)
+remain = int(n1) % int(n2)
+div = float(n1) / float(n2)
+
+print(add)
+print(sub)
+print(mul)
+print(quot)
+print(remain)
+print(format(div, '.2f'))
