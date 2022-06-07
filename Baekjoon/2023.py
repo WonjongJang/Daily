@@ -1,7 +1,6 @@
 import sys
 sys.stdin = open('input.txt')
 
-
 def is_prime(x, tmp, cnt):
     if cnt == N:
         print(x)
