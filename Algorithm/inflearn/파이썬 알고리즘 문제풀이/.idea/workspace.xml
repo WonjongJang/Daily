@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49600bc3-7474-49f9-9427-f96e7ce4fd18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
-    </list>
+    <list default="true" id="49600bc3-7474-49f9-9427-f96e7ce4fd18" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,16 +11,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4-10 역수열(그리디).py">
+        <entry file="file://$PROJECT_DIR$/5-5 공주구하기(큐).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="120">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4-10 input.txt">
+        <entry file="file://$PROJECT_DIR$/5-5 input.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="1" selection-start-column="1" selection-end-column="1" />
@@ -46,16 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1-7 input.txt" />
-        <option value="$PROJECT_DIR$/1-8 뒤집은 소수.py" />
-        <option value="$PROJECT_DIR$/1-8 input.txt" />
-        <option value="$PROJECT_DIR$/1-9 input.txt" />
-        <option value="$PROJECT_DIR$/1-10 input.txt" />
-        <option value="$PROJECT_DIR$/1-10 점수계산.py" />
-        <option value="$PROJECT_DIR$/1-9 주사위 게임.py" />
-        <option value="$PROJECT_DIR$/3-1 input.txt" />
-        <option value="$PROJECT_DIR$/3-1 회문 문자열 검사.py" />
-        <option value="$PROJECT_DIR$/3-2 input.txt" />
         <option value="$PROJECT_DIR$/3-3 input.txt" />
         <option value="$PROJECT_DIR$/3-3 카드 역배치.py" />
         <option value="$PROJECT_DIR$/3-2 숫자만 추출.py" />
@@ -97,12 +84,22 @@
         <option value="$PROJECT_DIR$/4-9 증가 수열 만들기(그리디).py" />
         <option value="$PROJECT_DIR$/4-10 역수열(그리디).py" />
         <option value="$PROJECT_DIR$/4-10 input.txt" />
+        <option value="$PROJECT_DIR$/5-1 input.txt" />
+        <option value="$PROJECT_DIR$/5-1 가장 큰 수(스택).py" />
+        <option value="$PROJECT_DIR$/5-2 쇠막대기(스택).py" />
+        <option value="$PROJECT_DIR$/5-2 input.txt" />
+        <option value="$PROJECT_DIR$/5-3 input.txt" />
+        <option value="$PROJECT_DIR$/5-3 후위 표기식 만들기(스택).py" />
+        <option value="$PROJECT_DIR$/5-4 input.txt" />
+        <option value="$PROJECT_DIR$/5-4 후위(postfix) 연산(스택).py" />
+        <option value="$PROJECT_DIR$/5-5 공주구하기(큐).py" />
+        <option value="$PROJECT_DIR$/5-5 input.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="827" />
-    <option name="y" value="2" />
+    <option name="x" value="902" />
+    <option name="y" value="4" />
     <option name="width" value="1024" />
     <option name="height" value="1047" />
   </component>
@@ -148,8 +145,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4-10 역수열(그리디)">
-    <configuration name="4-10 역수열(그리디)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.5-5 공주구하기(큐)">
+    <configuration name="5-1 가장 큰 수(스택)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="파이썬 알고리즘 문제풀이" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,7 +158,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-10 역수열(그리디).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5-1 가장 큰 수(스택).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4-6 씨름 선수(그리디)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5-2 쇠막대기(스택)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="파이썬 알고리즘 문제풀이" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +179,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-6 씨름 선수(그리디).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5-2 쇠막대기(스택).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4-7 창고 정리(그리디)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5-3 후위 표기식 만들기(스택)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="파이썬 알고리즘 문제풀이" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,7 +200,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-7 창고 정리(그리디).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5-3 후위 표기식 만들기(스택).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4-8 침몰하는 타이타닉(그리디)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5-4 후위(postfix) 연산(스택)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="파이썬 알고리즘 문제풀이" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,7 +221,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-8 침몰하는 타이타닉(그리디).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5-4 후위(postfix) 연산(스택).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4-9 증가 수열 만들기(그리디)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5-5 공주구하기(큐)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="파이썬 알고리즘 문제풀이" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,7 +242,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-9 증가 수열 만들기(그리디).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5-5 공주구하기(큐).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4-10 역수열(그리디)" />
-        <item itemvalue="Python.4-9 증가 수열 만들기(그리디)" />
-        <item itemvalue="Python.4-8 침몰하는 타이타닉(그리디)" />
-        <item itemvalue="Python.4-7 창고 정리(그리디)" />
-        <item itemvalue="Python.4-6 씨름 선수(그리디)" />
+        <item itemvalue="Python.5-5 공주구하기(큐)" />
+        <item itemvalue="Python.5-4 후위(postfix) 연산(스택)" />
+        <item itemvalue="Python.5-3 후위 표기식 만들기(스택)" />
+        <item itemvalue="Python.5-2 쇠막대기(스택)" />
+        <item itemvalue="Python.5-1 가장 큰 수(스택)" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +275,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="827" y="2" width="1024" height="1047" extended-state="0" />
+    <frame x="902" y="4" width="1024" height="1047" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1764706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -356,80 +353,20 @@
           <line>8</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5-3 후위 표기식 만들기(스택).py</url>
+          <line>8</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5-3 후위 표기식 만들기(스택).py</url>
+          <line>5</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2-8 input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2-9 input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2-10 input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2-10 점수계산.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2-6 input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3-1 input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3-2 input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3-3 input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3-4 input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3-4 두 리스트 합치기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3-5 수의 합.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
@@ -626,13 +563,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ef.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ef.py" />
     <entry file="file://$PROJECT_DIR$/4-5 input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="605">
@@ -696,13 +627,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4-9 증가 수열 만들기(그리디).py">
+    <entry file="file://$PROJECT_DIR$/4-10 역수열(그리디).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="480">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -713,10 +641,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4-10 역수열(그리디).py">
+    <entry file="file://$PROJECT_DIR$/4-9 증가 수열 만들기(그리디).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-1 input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-1 가장 큰 수(스택).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-2 input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-2 쇠막대기(스택).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-3 후위 표기식 만들기(스택).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-3 input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-4 input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-4 후위(postfix) 연산(스택).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-5 input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5-5 공주구하기(큐).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
