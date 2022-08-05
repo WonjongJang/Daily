@@ -1,6 +1,34 @@
 import sys
 sys.stdin = open('input.txt')
 
+
+N = int(input())
+A = list(map(int, input().split()))
+M = int(input())
+X = list(map(int, input().split()))
+
+A.sort()
+
+for x in X:
+    l = 0
+    r = N-1
+    check = 0
+    while l <= r:
+        mid = (l+r)//2
+
+        if x == A[mid]:
+            check = 1
+            break
+        elif x > A[mid]:
+            l = mid + 1
+        else:
+            r = mid - 1
+
+    print(check)
+
+
+
+'''
 N = int(input())
 A = list(map(int, input().split()))
 M = int(input())
@@ -28,3 +56,4 @@ for m in range(M):
         print(1)
     else:
         print(0)
+'''
