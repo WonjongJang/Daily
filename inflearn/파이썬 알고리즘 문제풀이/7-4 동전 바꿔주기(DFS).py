@@ -15,7 +15,7 @@ def recur(L, sum):
             recur(L+1, sum+(C[L][0]*i))
 
 TC = int(input())
-for _ in range(TC):
+for tc in range(TC):
     T = int(input())
     K = int(input())
     C = []
