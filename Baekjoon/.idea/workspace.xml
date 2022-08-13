@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6066e6b-237f-4ffb-9097-daa1ff5e7501" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inflearn/파이썬 알고리즘 문제풀이/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inflearn/파이썬 알고리즘 문제풀이/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inflearn/파이썬 알고리즘 문제풀이/7-4 동전 바꿔주기(DFS).py" beforeDir="false" afterPath="$PROJECT_DIR$/../inflearn/파이썬 알고리즘 문제풀이/7-4 동전 바꿔주기(DFS).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,17 +16,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            <state relative-caret-position="30">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3079.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2343.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="375">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -75,13 +83,15 @@
         <option value="$PROJECT_DIR$/2776.py" />
         <option value="$PROJECT_DIR$/10816.py" />
         <option value="$PROJECT_DIR$/2512.py" />
-        <option value="$PROJECT_DIR$/input.txt" />
         <option value="$PROJECT_DIR$/2343.py" />
+        <option value="$PROJECT_DIR$/input.txt" />
+        <option value="$PROJECT_DIR$/3079.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1106" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="969" />
+    <option name="y" value="16" />
     <option name="width" value="822" />
     <option name="height" value="1048" />
   </component>
@@ -120,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2343">
+  <component name="RunManager" selected="Python.3079">
     <configuration name="10816" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7795" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3079" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,7 +269,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7795.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3079.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3079" />
         <item itemvalue="Python.2343" />
         <item itemvalue="Python.2512" />
         <item itemvalue="Python.10816" />
         <item itemvalue="Python.2776" />
-        <item itemvalue="Python.7795" />
       </list>
     </recent_temporary>
   </component>
@@ -292,15 +302,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1106" y="0" width="822" height="1048" extended-state="1" />
-    <editor active="true" />
+    <frame x="969" y="16" width="822" height="1048" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24872449" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24872449" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24835886" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24835886" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36761487" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -626,15 +635,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        <state relative-caret-position="30">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2343.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="375">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3079.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
