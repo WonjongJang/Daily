@@ -2,6 +2,39 @@ import sys
 sys.stdin = open('input.txt')
 
 
+def recur(start, cnt, sum, n):
+    global min_v
+
+    if sum > min_v:
+        return
+
+    if cnt == N:
+        if W[n][start]:
+            sum += W[n][start]
+            min_v = min(min_v, sum)
+
+    for i in range(N):
+        if W[n][i] and not v[i]:
+            v[i] = 1
+            recur(start, cnt+1, sum+W[n][i], i)
+            v[i] = 0
+
+N = int(input())
+W = [list(map(int, input().split())) for _ in range(N)]
+
+v = [0]*N
+min_v = 2147000000
+
+for i in range(N):
+    v[i] = 1
+    recur(i, 1, 0, i)
+    v[i] = 0
+
+print(min_v)
+
+
+
+'''
 def sol(f, sum, cnt, start):
     global N, min_v
 
@@ -33,3 +66,4 @@ for s in range(N):      # s번 도시에서 시작
     visited[s] = 0
 
 print(min_v)
+'''
