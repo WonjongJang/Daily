@@ -1,6 +1,34 @@
 import sys
 sys.stdin = open('input.txt')
 
+
+T = int(input())
+for _ in range(T):
+    data = input()
+
+    flag = 1
+    stack = []
+    for i in data:
+        if i == '(':
+            stack.append(i)
+        else:
+            if stack:
+                stack.pop()
+            else:
+                flag = 0
+                break
+
+    if flag:
+        if stack:
+            print('NO')
+        else:
+            print('YES')
+    else:
+        print('NO')
+
+
+
+'''
 T = int(input())
 for tc in range(1, T+1):
     PS = input()
@@ -30,27 +58,30 @@ for tc in range(1, T+1):
         ans = "YES"
 
     print(ans)
+'''
 
 
 
-# T = int(input())
-#
-# for t in range(T):
-#     stack = []
-#     ps = input()
-#     if ps[0] == ')':    # )로 시작하는 경우
-#         print('NO')
-#         continue
-#     for i in range(len(ps)):
-#         if ps[i] == '(':
-#             stack.append(ps[i])
-#         else:
-#             if stack:
-#                 stack.pop()
-#             else:
-#                 stack.append(ps[i])
-#                 break
-#     if stack:
-#         print('NO')
-#     else:
-#         print('YES')
+'''
+T = int(input())
+
+for t in range(T):
+    stack = []
+    ps = input()
+    if ps[0] == ')':    # )로 시작하는 경우
+        print('NO')
+        continue
+    for i in range(len(ps)):
+        if ps[i] == '(':
+            stack.append(ps[i])
+        else:
+            if stack:
+                stack.pop()
+            else:
+                stack.append(ps[i])
+                break
+    if stack:
+        print('NO')
+    else:
+        print('YES')
+'''
