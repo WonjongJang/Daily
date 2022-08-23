@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49600bc3-7474-49f9-9427-f96e7ce4fd18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/7-4 동전 바꿔주기(DFS).py" beforeDir="false" afterPath="$PROJECT_DIR$/7-4 동전 바꿔주기(DFS).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Baekjoon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Baekjoon/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-5 input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/7-5 input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7-5 동전 분배하기(DFS).py" beforeDir="false" afterPath="$PROJECT_DIR$/7-5 동전 분배하기(DFS).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,29 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7-4 동전 바꿔주기(DFS).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7-5 동전 분배하기(DFS).py">
+        <entry file="file://$PROJECT_DIR$/7-6 알파코드(DFS).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="-90">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7-5 input.txt">
+        <entry file="file://$PROJECT_DIR$/7-6 input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="60">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -54,8 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/5-6 응급실(큐).py" />
-        <option value="$PROJECT_DIR$/5-7 input.txt" />
         <option value="$PROJECT_DIR$/5-7 교육과정설계(큐).py" />
         <option value="$PROJECT_DIR$/5-8 단어찾기(해쉬).py" />
         <option value="$PROJECT_DIR$/5-8 input.txt" />
@@ -102,16 +94,18 @@
         <option value="$PROJECT_DIR$/7-3 양팔저울(DFS).py" />
         <option value="$PROJECT_DIR$/7-3 input.txt" />
         <option value="$PROJECT_DIR$/7-4 input.txt" />
-        <option value="$PROJECT_DIR$/7-5 input.txt" />
         <option value="$PROJECT_DIR$/7-4 동전 바꿔주기(DFS).py" />
         <option value="$PROJECT_DIR$/7-5 동전 분배하기(DFS).py" />
+        <option value="$PROJECT_DIR$/7-5 input.txt" />
+        <option value="$PROJECT_DIR$/7-6 알파코드(DFS).py" />
+        <option value="$PROJECT_DIR$/7-6 input.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="987" />
-    <option name="y" value="27" />
-    <option name="width" value="891" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1000" />
+    <option name="y" value="26" />
+    <option name="width" value="889" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -158,28 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.7-5 동전 분배하기(DFS)">
-    <configuration name="7-2 휴가(DFS)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="파이썬 알고리즘 문제풀이" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7-2 휴가(DFS).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.7-6 알파코드(DFS)">
     <configuration name="7-3 양팔저울(DFS)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="파이썬 알고리즘 문제풀이" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,6 +216,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="7-6 알파코드(DFS)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="파이썬 알고리즘 문제풀이" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7-6 알파코드(DFS).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="파이썬 알고리즘 문제풀이" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -266,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.7-6 알파코드(DFS)" />
         <item itemvalue="Python.7-5 동전 분배하기(DFS)" />
         <item itemvalue="Python.7-4 동전 바꿔주기(DFS)" />
         <item itemvalue="Python.7-3 양팔저울(DFS)" />
         <item itemvalue="Python.ex" />
-        <item itemvalue="Python.7-2 휴가(DFS)" />
       </list>
     </recent_temporary>
   </component>
@@ -288,14 +282,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="987" y="27" width="891" height="1047" extended-state="0" />
+    <frame x="1000" y="26" width="889" height="1047" extended-state="1" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30128956" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.30199766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25629792" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3833516" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -442,27 +436,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6-1 input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6-1 재귀함수를 이용한 이진수 출력.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6-2 input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6-3 input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -762,24 +735,41 @@
     <entry file="file://$PROJECT_DIR$/0-10 2차원 리스트 생성과 접근.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/7-5 input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7-4 동전 바꿔주기(DFS).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-5 정다면체.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-5 input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7-5 동전 분배하기(DFS).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="86">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-6 input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-6 알파코드(DFS).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
