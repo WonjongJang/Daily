@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49600bc3-7474-49f9-9427-f96e7ce4fd18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Baekjoon/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Baekjoon/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Baekjoon/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-5 input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/7-5 input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7-5 동전 분배하기(DFS).py" beforeDir="false" afterPath="$PROJECT_DIR$/7-5 동전 분배하기(DFS).py" afterDir="false" />
-    </list>
+    <list default="true" id="49600bc3-7474-49f9-9427-f96e7ce4fd18" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +13,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/7-6 알파코드(DFS).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-90">
+            <state relative-caret-position="180">
               <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
@@ -102,7 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1000" />
     <option name="y" value="26" />
     <option name="width" value="889" />
@@ -282,14 +277,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1000" y="26" width="889" height="1047" extended-state="1" />
+    <frame x="1000" y="26" width="889" height="1047" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.30199766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3833516" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3833516" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -768,7 +763,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/7-6 알파코드(DFS).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
+        <state relative-caret-position="180">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
