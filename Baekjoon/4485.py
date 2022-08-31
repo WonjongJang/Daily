@@ -43,3 +43,42 @@ while True:
                 if dist[nx][ny] > ns:
                     dist[nx][ny] = ns
                     heapq.heappush(que, [ns, nx, ny])
+
+
+
+'''
+import sys
+sys.stdin = open('input.txt')
+INF = sys.maxsize
+
+
+dx = [-1, 0, 1, 0]
+dy = [0, 1, 0, -1]
+
+T = 1
+while True:
+    N = int(input())
+    if N == 0:
+        break
+    data = [list(map(int, input().split())) for _ in range(N)]
+
+    dist = [[INF]*(N) for _ in range(N)]
+
+    q = []
+    q.append((0, 0))
+    dist[0][0] = data[0][0]
+
+    while q:
+        x, y = q.pop(0)
+
+        for d in range(4):
+            nx = x + dx[d]
+            ny = y + dy[d]
+            if 0 <= nx < N and 0 <= ny < N:
+                if dist[x][y] + data[nx][ny] < dist[nx][ny]:
+                    dist[nx][ny] = dist[x][y] + data[nx][ny]
+                    q.append((nx, ny))
+
+    print('Problem {}: {}'.format(T, dist[N-1][N-1]))
+    T += 1
+'''
