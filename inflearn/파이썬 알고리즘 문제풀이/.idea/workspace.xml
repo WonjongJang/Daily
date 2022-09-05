@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49600bc3-7474-49f9-9427-f96e7ce4fd18" name="Default Changelist" comment="" />
+    <list default="true" id="49600bc3-7474-49f9-9427-f96e7ce4fd18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Baekjoon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Baekjoon/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Baekjoon/input.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,10 +14,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7-11 단지 번호 붙이기(DFS, BFS).py">
+        <entry file="file://$PROJECT_DIR$/7-12 섬나라 아일랜드(BFS).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="755">
-              <caret line="108" column="12" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
+            <state relative-caret-position="590">
+              <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7-12 input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="781">
+              <caret line="83" column="39" selection-start-line="83" selection-start-column="39" selection-end-line="83" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -22,7 +34,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7-11 input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
+            <state relative-caret-position="1515">
               <caret line="101" column="25" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
             </state>
           </provider>
@@ -70,8 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/6-1 input.txt" />
-        <option value="$PROJECT_DIR$/6-1 재귀함수를 이용한 이진수 출력.py" />
         <option value="$PROJECT_DIR$/6-2 input.txt" />
         <option value="$PROJECT_DIR$/6-2 이진트리순회(DFS).py" />
         <option value="$PROJECT_DIR$/6-3 input.txt" />
@@ -121,12 +131,13 @@
         <option value="$PROJECT_DIR$/7-10 등산경로(BFS).py" />
         <option value="$PROJECT_DIR$/7-11 input.txt" />
         <option value="$PROJECT_DIR$/7-11 단지 번호 붙이기(DFS, BFS).py" />
+        <option value="$PROJECT_DIR$/7-12 input.txt" />
+        <option value="$PROJECT_DIR$/7-12 섬나라 아일랜드(BFS).py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="724" />
-    <option name="y" value="10" />
+    <option name="x" value="958" />
     <option name="width" value="889" />
     <option name="height" value="1047" />
   </component>
@@ -174,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.7-11 단지 번호 붙이기(DFS, BFS)">
+  <component name="RunManager" selected="Python.7-12 섬나라 아일랜드(BFS)">
     <configuration name="7-10 등산경로(BFS)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="파이썬 알고리즘 문제풀이" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,7 +228,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7-7 송아지 찾기(BFS)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="7-12 섬나라 아일랜드(BFS)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="파이썬 알고리즘 문제풀이" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,7 +240,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7-7 송아지 찾기(BFS).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7-12 섬나라 아일랜드(BFS).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,11 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.7-12 섬나라 아일랜드(BFS)" />
         <item itemvalue="Python.7-11 단지 번호 붙이기(DFS, BFS)" />
         <item itemvalue="Python.7-10 등산경로(BFS)" />
         <item itemvalue="Python.7-9 미로의 최단거리 통로(BFS)" />
         <item itemvalue="Python.7-8 사과나무(BFS)" />
-        <item itemvalue="Python.7-7 송아지 찾기(BFS)" />
       </list>
     </recent_temporary>
   </component>
@@ -304,15 +315,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="724" y="10" width="889" height="1047" extended-state="0" />
+    <frame x="958" y="0" width="889" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30199766" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.30199766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.17853232" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3493976" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -459,20 +470,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6-7 동전 교환-Cut Edge Tech.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6-8 input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6-8 순열 구하기(DFS).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -759,6 +756,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/7-10 등산경로(BFS).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-8 사과나무(BFS).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="830">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-11 단지 번호 붙이기(DFS, BFS).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="108" column="12" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-11 input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1515">
+          <caret line="101" column="25" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/7-10 input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -780,31 +805,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7-10 등산경로(BFS).py">
+    <entry file="file://$PROJECT_DIR$/7-12 input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="781">
+          <caret line="83" column="39" selection-start-line="83" selection-start-column="39" selection-end-line="83" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7-8 사과나무(BFS).py">
+    <entry file="file://$PROJECT_DIR$/7-12 섬나라 아일랜드(BFS).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="830">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7-11 input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="101" column="25" selection-start-line="101" selection-start-column="25" selection-end-line="101" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7-11 단지 번호 붙이기(DFS, BFS).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
-          <caret line="108" column="12" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
+        <state relative-caret-position="590">
+          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
         </state>
       </provider>
     </entry>
