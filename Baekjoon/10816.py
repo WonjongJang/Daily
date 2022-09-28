@@ -3,6 +3,27 @@ sys.stdin = open('input.txt')
 
 
 N = int(input())
+cards = list(map(int, input().split()))
+M = int(input())
+data = list(map(int, input().split()))
+
+dic = {}
+for card in cards:
+    if card in dic:
+        dic[card] += 1
+    else:
+        dic[card] = 1
+
+for d in data:
+    if d in dic:
+        print(dic[d], end=' ')
+    else:
+        print(0, end=' ')
+
+
+
+'''
+N = int(input())
 N_list = list(map(int, input().split()))
 M = int(input())
 M_list = list(map(int, input().split()))
@@ -19,3 +40,4 @@ for m in M_list:
         print(dic[m], end=" ")
     else:
         print(0, end=" ")
+'''
