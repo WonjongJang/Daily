@@ -30,5 +30,4 @@ if __name__=="__main__":
         for j in range(w, m+1):
             dy[j]=max(dy[j], dy[j-w]+v)
     print(dy[m])
-
 '''
