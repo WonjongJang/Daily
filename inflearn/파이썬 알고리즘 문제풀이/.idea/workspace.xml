@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49600bc3-7474-49f9-9427-f96e7ce4fd18" name="Default Changelist" comment="" />
+    <list default="true" id="49600bc3-7474-49f9-9427-f96e7ce4fd18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,56 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8-8 가방문제(냅색 알고리즘).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8-9 동전교환.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/8-11 플로이드 워샬 알고리즘.py">
+        <entry file="file://$PROJECT_DIR$/8-13 위상정렬(그래프 정렬).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            <state relative-caret-position="200">
+              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8-11 input.txt">
+        <entry file="file://$PROJECT_DIR$/8-13 input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8-10 input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="65" column="3" selection-start-line="65" selection-start-column="3" selection-end-line="65" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/8-9 input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="105">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -79,9 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/7-2 휴가(DFS).py" />
-        <option value="$PROJECT_DIR$/ex.py" />
-        <option value="$PROJECT_DIR$/7-3 양팔저울(DFS).py" />
         <option value="$PROJECT_DIR$/7-3 input.txt" />
         <option value="$PROJECT_DIR$/7-4 input.txt" />
         <option value="$PROJECT_DIR$/7-4 동전 바꿔주기(DFS).py" />
@@ -128,14 +91,17 @@
         <option value="$PROJECT_DIR$/8-9 input.txt" />
         <option value="$PROJECT_DIR$/8-10 input.txt" />
         <option value="$PROJECT_DIR$/8-10 최대점수 구하기(냅색 알고리즘).py" />
-        <option value="$PROJECT_DIR$/8-11 input.txt" />
         <option value="$PROJECT_DIR$/8-11 플로이드 워샬 알고리즘.py" />
+        <option value="$PROJECT_DIR$/8-11 input.txt" />
+        <option value="$PROJECT_DIR$/8-12 input.txt" />
+        <option value="$PROJECT_DIR$/8-12 위상정렬(그래프 정렬).py" />
+        <option value="$PROJECT_DIR$/8-13 위상정렬(그래프 정렬).py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="545" />
-    <option name="y" value="12" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="882" />
+    <option name="y" value="23" />
     <option name="width" value="953" />
     <option name="height" value="1047" />
   </component>
@@ -183,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.8-11 플로이드 워샬 알고리즘">
+  <component name="RunManager" selected="Python.8-13 위상정렬(그래프 정렬)">
     <configuration name="8-10 최대점수 구하기(냅색 알고리즘)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="파이썬 알고리즘 문제풀이" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -226,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8-7 알리바바와 40인의 도둑" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8-12 위상정렬(그래프 정렬)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="파이썬 알고리즘 문제풀이" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,7 +204,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8-7 알리바바와 40인의 도둑.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\JWJ\Desktop\hub\PS\inflearn\파이썬 알고리즘 문제풀이\8-13 위상정렬(그래프 정렬).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8-8 가방문제(냅색 알고리즘)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8-13 위상정렬(그래프 정렬)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="파이썬 알고리즘 문제풀이" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,7 +225,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8-8 가방문제(냅색 알고리즘).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8-13 위상정렬(그래프 정렬).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,11 +257,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.8-13 위상정렬(그래프 정렬)" />
+        <item itemvalue="Python.8-12 위상정렬(그래프 정렬)" />
         <item itemvalue="Python.8-11 플로이드 워샬 알고리즘" />
         <item itemvalue="Python.8-10 최대점수 구하기(냅색 알고리즘)" />
         <item itemvalue="Python.8-9 동전교환" />
-        <item itemvalue="Python.8-8 가방문제(냅색 알고리즘)" />
-        <item itemvalue="Python.8-7 알리바바와 40인의 도둑" />
       </list>
     </recent_temporary>
   </component>
@@ -313,15 +279,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="952" y="12" width="953" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="882" y="23" width="953" height="1047" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.30163935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3493976" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3493976" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -478,20 +443,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/7-4 input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7-4 동전 바꿔주기(DFS).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2-5 정다면체.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -815,15 +766,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/8-11 input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/8-11 플로이드 워샬 알고리즘.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        <state relative-caret-position="61">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-13 input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-13 위상정렬(그래프 정렬).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
         </state>
       </provider>
     </entry>
