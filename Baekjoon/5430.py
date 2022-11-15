@@ -9,31 +9,30 @@ for _ in range(T):
     n = int(input())
     x_list = input()
 
-    arr = deque(x_list[1:len(x_list)-1].split(','))
+    if n:
+        arr = deque(x_list[1:len(x_list)-1].split(','))
+    else:
+        arr = []
 
-    print(arr)
-
-    P = []
     flag = 1
-    cnt = 0
+    rev = 1
     for i in p:
         if i == 'R':
-            flag *= -1
+            rev *= -1
         else:
+            if len(arr) < 1:
+                flag = 0
+                print('error')
+                break
+            else:
+                if rev != -1:
+                    arr.popleft()
+                else:
+                    arr.pop()
 
-        #     if flag:
-        #
-        #     else:
-
-    #         tmp = tmp[::-1]
-    #     else:
-    #         if tmp:
-    #             tmp.pop(0)
-    #         else:
-    #             tmp = 'error'
-    #             break
-
-    # if tmp != 'error':
-    #     print('[' + ','.join(map(str, tmp)) + ']')
-    # else:
-    #     print(tmp)
+    if flag:
+        if rev != 1:
+            arr.reverse()
+            print('[' + ','.join(map(str, arr)) + ']')
+        else:
+            print('[' + ','.join(map(str, arr)) + ']')
