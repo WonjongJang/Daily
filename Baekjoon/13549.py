@@ -7,6 +7,7 @@ move = [2, 1, -1]
 
 N, K = map(int, input().split())
 
+# 필요 없을 것 같다
 if N >= K:  # N이 K보다 크면 -1로만 갈 수 있음
     print(N-K)  # 떨어진 칸 수 만큼 이동
     sys.exit()  # 종료
